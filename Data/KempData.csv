@@ -1,0 +1,156 @@
+Label,Confidence,Full Tweet,Sanitized Tweet
+neutral,0.75,"Wow is right.
+
+Maybe Kemp is trying to disenfranchise black people by killing them. https://t.co/bOi8UdhFkw",wow right. maybe kemp trying disenfranchise black people killing them.
+pos,1.0,"""I told the governor of #Georgia, Brian Kemp, that I disagree strongly with his decision to open certain facilities which are in violation of the phase one guidelines for the incredible people of Georgia,"" the president said. #fox5atl #COVID19 #coronavirus https://t.co/eqnBM0e1pJ","""i told governor georgia, brian kemp, disagree strongly decision open certain facilities violation phase one guidelines incredible people georgia,"" president said. fox5atl covid19 coronavirus"
+neg,1.0,RT @chrislhayes: They're absolutely cutting Kemp off at the knees. You hate to see it.,they're absolutely cutting kemp knees. hate see it.
+pos,1.0,"RT @Yamiche: Wow.
+
+President Trump says he told Georgia Gov Kemp he disagrees ""very strongly"" with his decision to reopen portions of the s…","wow. president trump says told georgia gov kemp disagrees ""very strongly"" decision reopen portions s…"
+pos,1.0,"RT @Yamiche: Wow.
+
+President Trump says he told Georgia Gov Kemp he disagrees ""very strongly"" with his decision to reopen portions of the s…","wow. president trump says told georgia gov kemp disagrees ""very strongly"" decision reopen portions s…"
+irrelevant,,RT @LindseyGrahamSC: I agree with President @realDonaldTrump’s concern about Georgia going ‘too far too fast’ with business re-openings.…,agree president concern georgia going ‘too far fast’ business re-openings.…
+neg,1.0,RT @ktbenner: Pres Trump has backed himself into a rhetorical position where he both publicly disagrees with Georgia Gov. Kemp's decision t…,pres trump backed rhetorical position publicly disagrees georgia gov. kemp's decision t…
+neg,1.0,RT @AdamParkhomenko: How does it feel to be called a stupid piece of shit by the stupidest piece of shit alive? I don’t know either. Someon…,feel called stupid piece shit stupidest piece shit alive? don’t know either. someon…
+neg,1.0,RT @RachelBitecofer: Lol trump just threw kemp under the bus,lol trump threw kemp bus
+pos,1.0,It was great hearing Dr. Fauci speak truth to power &amp; to Dr. Birx. He threw her under the bus for her unwillingness to 2nd-guess Kemp when asked about businesses in GA opening. Fauci said “as a doctor” I’d advise against it. Because it may cause a resurgence. Good answer.,great hearing dr. fauci speak truth power &amp; dr. birx. threw bus unwillingness 2nd-guess kemp asked businesses ga opening. fauci said “as doctor” i’d advise it. may cause resurgence. good answer.
+neg,1.0,RT @notcapnamerica: Omg.  Trump left Brian Kemp out to dry like that? 💀,omg. trump left brian kemp dry like that? 💀
+neg,1.0,RT @chrislhayes: They're absolutely cutting Kemp off at the knees. You hate to see it.,they're absolutely cutting kemp knees. hate see it.
+pos,1.0,"RT @Yamiche: Wow.
+
+President Trump says he told Georgia Gov Kemp he disagrees ""very strongly"" with his decision to reopen portions of the s…","wow. president trump says told georgia gov kemp disagrees ""very strongly"" decision reopen portions s…"
+neg,1.0,RT @JessicaTaylor: Trump to Gov. Brian Kemp https://t.co/DGjetdsYym,trump gov. brian kemp
+neg,1.0,"RT @mmpadellan: Dr. Fauci says he would tell the idiot Governor Kemp to pump the brakes on his stupid plans, pretty much.
+
+SHORTER: Still-r…","dr. fauci says would tell idiot governor kemp pump brakes stupid plans, pretty much. shorter: still-r…"
+pos,1.0,"RT @Fah_Lo_Me: When asked if he disagrees with Kemp’s decision to reopen Georgia, Trump replied with a firm: “Yes??” (In that baby voice he…","asked disagrees kemp’s decision reopen georgia, trump replied firm: “yes??” (in baby voice he…"
+pos,1.0,"RT @StephenAtHome: 🎶The devil went down to Georgia, he was lookin' for a soul to steal /
+Then he met Brian Kemp and was like “Nope, got you…","🎶the devil went georgia, lookin' soul steal met brian kemp like “nope, got you…"
+pos,1.0,"RT @bluestein: @GovKemp Says @GeorgiaDemocrat chair @NikemaWilliams: ""You know it’s a serious failure when Donald Trump ... distances himse…","says chair ""you know it’s serious failure donald trump ... distances himse…"
+pos,1.0,"South Carolina senator Lindsey Graham says he agrees with Pres. Trump, saying Georgia governor Brian Kemp is moving to re-open more businesses too quickly during the #COVID19 pandemic. What do you say? Full story is online now: https://t.co/ctbygYbC3V https://t.co/eTvuWQfEd2","south carolina senator lindsey graham says agrees pres. trump, saying georgia governor brian kemp moving re-open businesses quickly covid19 pandemic. say? full story online now:"
+pos,1.0,RT @Bakari_Sellers: Context is important. The Presidents swipe at Kemp isn’t a strategy he just still holds animus over the Georgia Senate…,context important. presidents swipe kemp isn’t strategy still holds animus georgia senate…
+pos,1.0,"RT @StephenAtHome: 🎶The devil went down to Georgia, he was lookin' for a soul to steal /
+Then he met Brian Kemp and was like “Nope, got you…","🎶the devil went georgia, lookin' soul steal met brian kemp like “nope, got you…"
+neutral,0.75,"@brody_ts @cnnbrk It’s a lie that Trump disagrees with Kemp. Kemp is following @GOP lead and following the backlash, Trump is trying to disavow it.","it’s lie trump disagrees kemp. kemp following lead following backlash, trump trying disavow it."
+neg,1.0,"RT @nycsouthpaw: Ah, the curse of memory. 
+
+AP: https://t.co/WmxHE4ibFV
+CNN: https://t.co/lwXtaSkkMx https://t.co/nFS995kphF","ah, curse memory. ap: cnn:"
+pos,1.0,"""I told the governor of #Georgia, Brian Kemp, that I disagree strongly with his decision to open certain facilities which are in violation of the phase one guidelines for the incredible people of Georgia,"" the president said. #fox5atl #COVID19 #coronavirus https://t.co/dqAHayaQfG","""i told governor georgia, brian kemp, disagree strongly decision open certain facilities violation phase one guidelines incredible people georgia,"" president said. fox5atl covid19 coronavirus"
+neg,1.0,RT @ktbenner: Pres Trump has backed himself into a rhetorical position where he both publicly disagrees with Georgia Gov. Kemp's decision t…,pres trump backed rhetorical position publicly disagrees georgia gov. kemp's decision t…
+pos,1.0,"RT @briantylercohen: Gotta love Kemp re-opening Georgia to pander to Trump whose been desperately lobbying states to re-open, only to have…","gotta love kemp re-opening georgia pander trump whose desperately lobbying states re-open, have…"
+neg,1.0,RT @GatorPA_: Trump just threw Gov. Kemp under the bus on national television and expresses his disapproval of re-opening businesses. https…,trump threw gov. kemp bus national television expresses disapproval re-opening businesses. https…
+neg,1.0,RT @chrislhayes: They're absolutely cutting Kemp off at the knees. You hate to see it.,they're absolutely cutting kemp knees. hate see it.
+neg,1.0,RT @ClaritySpeakz: @LegendaryEnergy Trump is selling us out.  He said he does NOT agree with Brian Kemp in opening GA.  He's totally brough…,trump selling us out. said agree brian kemp opening ga. he's totally brough…
+neg,1.0,"RT @PalmerReport: Donald Trump's day so far:
+
+- Forces Dr. Redfield to pretend he didn't say what he said
+- Throws Georgia Governor Brian K…",donald trump's day far: forces dr. redfield pretend say said throws georgia governor brian k…
+pos,1.0,@guypbenson Trump won’t actually do anything about it though. He’s covering himself because his plan is necessarily cautious but will let Kemp do this. I won’t be surprised if this works out well for Kemp.,trump won’t actually anything though. he’s covering plan necessarily cautious let kemp this. won’t surprised works well kemp.
+neg,1.0,RT @AdamParkhomenko: How does it feel to be called a stupid piece of shit by the stupidest piece of shit alive? I don’t know either. Someon…,feel called stupid piece shit stupidest piece shit alive? don’t know either. someon…
+neg,1.0,"RT @atrupar: Trump says he told Georgia Gov. Kemp that he disagrees with his move to reopen businesses as soon as this Friday, but adds tha…","trump says told georgia gov. kemp disagrees move reopen businesses soon friday, adds tha…"
+pos,1.0,"RT @kaitlancollins: Wow. Trump says he told Georgia. Gov. Brian Kemp he disagrees with his moves. ""But at the same time, he must do what he…","wow. trump says told georgia. gov. brian kemp disagrees moves. ""but time, must he…"
+neg,1.0,"RT @MingGao26: So, Mercer/Ayers pick Kemp to rollout disatorous RNC re-opening.
+
+Also, intresting that Kemp spurn freedom caucus/collins on…","so, mercer/ayers pick kemp rollout disatorous rnc re-opening. also, intresting kemp spurn freedom caucus/collins on…"
+neutral,0.75,@ajc #FAKE! RETWEET THIS! Trump is NOT telling KEMP not to reopen! Trump is saying this to the Press to Look good! @nytimes &amp; @npr just REVEALED TRUMP &amp; betsie Devos family are SECRETLY FUNDING the PROTESTS!,fake! retweet this! trump telling kemp reopen! trump saying press look good! &amp; revealed trump &amp; betsie devos family secretly funding protests!
+irrelevant,,"@realDonaldTrump It is time to believe and support what Gov B. Kemp is trying to do. His heart is in the right place. Courage and staying strong shows leadership. The MEDIA doesn’t matter. They grumble, complain, and constantly show hate. Americans are better than this.","time believe support gov b. kemp trying do. heart right place. courage staying strong shows leadership. media doesn’t matter. grumble, complain, constantly show hate. americans better this."
+pos,1.0,"""I told the governor of #Georgia, Brian Kemp, that I disagree strongly with his decision to open certain facilities which are in violation of the phase one guidelines for the incredible people of Georgia,"" the president said. #fox5atl #COVID19 #coronavirus https://t.co/Wzkt1EcmNk","""i told governor georgia, brian kemp, disagree strongly decision open certain facilities violation phase one guidelines incredible people georgia,"" president said. fox5atl covid19 coronavirus"
+neg,1.0,RT @politico: President Trump today said he informed Georgia Gov. Brian Kemp that he “strongly” disagreed with his decision to begin reopen…,president trump today said informed georgia gov. brian kemp “strongly” disagreed decision begin reopen…
+neg,1.0,"RT @Yamiche: Pres Trump says he likes GA Gov Brian Kemp but disagrees with re-opening businesses there. ""Maybe you wait a little bit longer…","pres trump says likes ga gov brian kemp disagrees re-opening businesses there. ""maybe wait little bit longer…"
+neg,1.0,"RT @Yamiche: Pres Trump says he likes GA Gov Brian Kemp but disagrees with re-opening businesses there. ""Maybe you wait a little bit longer…","pres trump says likes ga gov brian kemp disagrees re-opening businesses there. ""maybe wait little bit longer…"
+neg,1.0,RT @ktbenner: Pres Trump has backed himself into a rhetorical position where he both publicly disagrees with Georgia Gov. Kemp's decision t…,pres trump backed rhetorical position publicly disagrees georgia gov. kemp's decision t…
+neg,1.0,@GAFollowers He just threw Kemp under the bus saying too soon. Interesting how that happens a lot with Trump.,threw kemp bus saying soon. interesting happens lot trump.
+neg,1.0,RT @ktbenner: Pres Trump has backed himself into a rhetorical position where he both publicly disagrees with Georgia Gov. Kemp's decision t…,pres trump backed rhetorical position publicly disagrees georgia gov. kemp's decision t…
+neg,1.0,RT @chrislhayes: They're absolutely cutting Kemp off at the knees. You hate to see it.,they're absolutely cutting kemp knees. hate see it.
+neg,1.0,"RT @mmpadellan: Dr. Fauci says he would tell the idiot Governor Kemp to pump the brakes on his stupid plans, pretty much.
+
+SHORTER: Still-r…","dr. fauci says would tell idiot governor kemp pump brakes stupid plans, pretty much. shorter: still-r…"
+neg,1.0,"RT @ddale8: Asked about Kemp, Fauci says he'd advise him that ""he should be careful. And I would advise him not to just turn the switch on…","asked kemp, fauci says he'd advise ""he careful. would advise turn switch on…"
+pos,1.0,"RT @briantylercohen: Gotta love Kemp re-opening Georgia to pander to Trump whose been desperately lobbying states to re-open, only to have…","gotta love kemp re-opening georgia pander trump whose desperately lobbying states re-open, have…"
+pos,1.0,"RT @kaitlancollins: Wow. Trump says he told Georgia. Gov. Brian Kemp he disagrees with his moves. ""But at the same time, he must do what he…","wow. trump says told georgia. gov. brian kemp disagrees moves. ""but time, must he…"
+pos,1.0,RT @GreyBeard_Biker: So this is why your ever-lovable Grey Beard Biker LOVES @realDonaldTrump: He was just talking about his concerns about…,ever-lovable grey beard biker loves talking concerns about…
+neg,1.0,"RT @GAFollowers: This Georgia doctor is FURIOUS with Governor Kemp's decision to reopen the state. 
+https://t.co/V1ZiPT3v9a",georgia doctor furious governor kemp's decision reopen state.
+pos,1.0,@Riddle_Reg @BrianKempGA Who do you agree with Kemp to open or Trump saying it's too soon to open GA?,agree kemp open trump saying soon open ga?
+neg,1.0,RT @chrislhayes: They're absolutely cutting Kemp off at the knees. You hate to see it.,they're absolutely cutting kemp knees. hate see it.
+neg,1.0,"So what was he purpose of these liberate protests?
+
+https://t.co/XeUb1xrlGk",purpose liberate protests?
+neg,1.0,"RT @MaerzLab: Please stop the clown car! I’d like to get out.
+
+https://t.co/ZyncFE9DaE",please stop clown car! i’d like get out.
+neg,1.0,"RT @AhmedBaba_: When asked about Georgia, Dr. Fauci said he would advise Kemp not to turn the switch back on because there would be a rebou…","asked georgia, dr. fauci said would advise kemp turn switch back would rebou…"
+pos,1.0,RT @CPLogistx: The Mayor of Las Vegas is running a tight race with Georgia's Governor Kemp for the second most ridiculously ignorant politi…,mayor las vegas running tight race georgia's governor kemp second ridiculously ignorant politi…
+neutral,0.75,"RT @maggieNYT: NEW - The president says he told Kemp he disagrees ""very strongly"" with his decision to reopen portions of the state's busin…","new president says told kemp disagrees ""very strongly"" decision reopen portions state's busin…"
+neg,1.0,"RT @christianllamar: Fauci is such a liar. 
+He said many times 
+“ We’ve never done this before. “ 
+So how does he know what will happen whe…",fauci liar. said many times “ we’ve never done before. “ know happen whe…
+neg,1.0,"RT @pittgriffin: Trump threw GA GOV Kemp under the bus for his dumb 'reopening'
+
+Dr. Fauci said of Kemp's plan “It certainly isn’t going to…",trump threw ga gov kemp bus dumb 'reopening' dr. fauci said kemp's plan “it certainly isn’t going to…
+neg,1.0,"RT @PalmerReport: Donald Trump's day so far:
+
+- Forces Dr. Redfield to pretend he didn't say what he said
+- Throws Georgia Governor Brian K…",donald trump's day far: forces dr. redfield pretend say said throws georgia governor brian k…
+neg,1.0,RT @KenTremendous: So...is Barr going to sue Gov. Kemp for re-opening? https://t.co/OscrI5EKQw,so...is barr going sue gov. kemp re-opening?
+neg,1.0,"RT @mog7546: WATCH
+
+Dr. Fauci pours cold water on opening of #Georgia by GOP governor
+
+#Fauci made it clear he opposed the decision from Go…",watch dr. fauci pours cold water opening georgia gop governor fauci made clear opposed decision go…
+neg,1.0,RT @KenTremendous: So...is Barr going to sue Gov. Kemp for re-opening? https://t.co/OscrI5EKQw,so...is barr going sue gov. kemp re-opening?
+neg,1.0,RT @chrislhayes: They're absolutely cutting Kemp off at the knees. You hate to see it.,they're absolutely cutting kemp knees. hate see it.
+neg,1.0,RT @ktbenner: Pres Trump has backed himself into a rhetorical position where he both publicly disagrees with Georgia Gov. Kemp's decision t…,pres trump backed rhetorical position publicly disagrees georgia gov. kemp's decision t…
+neutral,0.75,@realDonaldTrump In GOD we trust? Mean it. Georgia is leading the way to prove Science is NOT GOD.Jesus is GOD. This is the David and Goliath story in replay. Corona is Goliath. All are afraid but for this one Kemp is David. Pray because once and for all AmericasTrust should be in GOD again.,god trust? mean it. georgia leading way prove science god.jesus god. david goliath story replay. corona goliath. afraid one kemp david. pray americastrust god again.
+neg,1.0,"RT @PalmerReport: Donald Trump's day so far:
+
+- Forces Dr. Redfield to pretend he didn't say what he said
+- Throws Georgia Governor Brian K…",donald trump's day far: forces dr. redfield pretend say said throws georgia governor brian k…
+neg,1.0,"RT @PalmerReport: Trump is now throwing his own guy, Georgia Governor Brian Kemp, under the bus. Did Kemp not see this coming? Trump always…","trump throwing guy, georgia governor brian kemp, bus. kemp see coming? trump always…"
+pos,1.0,"RT @Reuters: Trump said he told Georgia Governor Brian Kemp he disagreed with his plan for certain businesses, saying it was too soon for s…","trump said told georgia governor brian kemp disagreed plan certain businesses, saying soon s…"
+neg,1.0,RT @HKrassenstein: BREAKING: President Trump just called Stacey Abrams a “him” when referring to her run against Brian Kemp for Georgia Gov…,breaking: president trump called stacey abrams “him” referring run brian kemp georgia gov…
+neg,1.0,RT @AdamJSmithGA: Trump distancing himself from Governor Kemp is another thing I didn’t expect this year.,trump distancing governor kemp another thing didn’t expect year.
+pos,1.0,"RT @briantylercohen: Gotta love Kemp re-opening Georgia to pander to Trump whose been desperately lobbying states to re-open, only to have…","gotta love kemp re-opening georgia pander trump whose desperately lobbying states re-open, have…"
+neg,1.0,"RT @PalmerReport: Trump is now throwing his own guy, Georgia Governor Brian Kemp, under the bus. Did Kemp not see this coming? Trump always…","trump throwing guy, georgia governor brian kemp, bus. kemp see coming? trump always…"
+pos,1.0,"RT @briantylercohen: Gotta love Kemp re-opening Georgia to pander to Trump whose been desperately lobbying states to re-open, only to have…","gotta love kemp re-opening georgia pander trump whose desperately lobbying states re-open, have…"
+pos,1.0,"RT @kaitlancollins: Wow. Trump says he told Georgia. Gov. Brian Kemp he disagrees with his moves. ""But at the same time, he must do what he…","wow. trump says told georgia. gov. brian kemp disagrees moves. ""but time, must he…"
+neutral,0.75,"RT @maggieNYT: NEW - The president says he told Kemp he disagrees ""very strongly"" with his decision to reopen portions of the state's busin…","new president says told kemp disagrees ""very strongly"" decision reopen portions state's busin…"
+neutral,0.75,RT @joelockhart: Today's theme. Who's getting thrown under the bus by Trump.  Redfield and Kemp are first up.,today's theme. who's getting thrown bus trump. redfield kemp first up.
+neg,1.0,"RT @tackettdc: ""So do I agree with him? no....would I do that? no,""  Trump said, but then said it was up to Gov. Kemp.","""so agree him? no....would that? no,"" trump said, said gov. kemp."
+pos,1.0,RT @guypbenson: 🚨 Trump: I “disagree strongly” with Gov. Kemp’s decision to reopen certain Georgia businesses on the recently-announced tim…,🚨 trump: “disagree strongly” gov. kemp’s decision reopen certain georgia businesses recently-announced tim…
+neg,1.0,RT @KellyO: DR FAUCI cautions Georgia Gov Kemp for not following the federal phase guidelines,dr fauci cautions georgia gov kemp following federal phase guidelines
+neg,1.0,RT @businessinsider: Trump: 'I disagree strongly' with Georgia Gov. Brian Kemp's decision to reopen businesses in his state https://t.co/Dq…,trump: 'i disagree strongly' georgia gov. brian kemp's decision reopen businesses state
+irrelevant,,RT @LindseyGrahamSC: I agree with President @realDonaldTrump’s concern about Georgia going ‘too far too fast’ with business re-openings.…,agree president concern georgia going ‘too far fast’ business re-openings.…
+neg,1.0,RT @chrislhayes: They're absolutely cutting Kemp off at the knees. You hate to see it.,they're absolutely cutting kemp knees. hate see it.
+neg,1.0,"RT @InTheNoosphere: Spain cancelled the Running of the Bulls.
+
+Germany cancelled Octoberfest.
+
+Georgia...opened the massage parlors.
+
+Gov.…",spain cancelled running bulls. germany cancelled octoberfest. georgia...opened massage parlors. gov.…
+pos,1.0,"RT @briantylercohen: Gotta love Kemp re-opening Georgia to pander to Trump whose been desperately lobbying states to re-open, only to have…","gotta love kemp re-opening georgia pander trump whose desperately lobbying states re-open, have…"
+neg,1.0,RT @realTuckFrumper: Donald Trump Says He Discouraged Georgia Governor Brian Kemp from Reopening: 'It's Too Soon' https://t.co/dzC6jqrzFv,donald trump says discouraged georgia governor brian kemp reopening: 'it's soon'
+pos,1.0,"RT @Yamiche: Wow.
+
+President Trump says he told Georgia Gov Kemp he disagrees ""very strongly"" with his decision to reopen portions of the s…","wow. president trump says told georgia gov kemp disagrees ""very strongly"" decision reopen portions s…"
+neg,1.0,@chrislhayes They were warned about this liar! Trump and his task force has thrown Gov. Kemp under the bus and keeps running over him. Kemp was only doing what Trump told them to do last week. I guess SC Gov. better get the memo🤷🏽‍♀️,warned liar! trump task force thrown gov. kemp bus keeps running him. kemp trump told last week. guess sc gov. better get memo🤷🏽‍♀️
+neg,1.0,RT @ktbenner: Pres Trump has backed himself into a rhetorical position where he both publicly disagrees with Georgia Gov. Kemp's decision t…,pres trump backed rhetorical position publicly disagrees georgia gov. kemp's decision t…
+neg,1.0,"RT @PalmerReport: Donald Trump's day so far:
+
+- Forces Dr. Redfield to pretend he didn't say what he said
+- Throws Georgia Governor Brian K…",donald trump's day far: forces dr. redfield pretend say said throws georgia governor brian k…
+neg,1.0,RT @chrislhayes: They're absolutely cutting Kemp off at the knees. You hate to see it.,they're absolutely cutting kemp knees. hate see it.
+neg,1.0,"RT @MadisonKittay: David Scatino thought Tony Soprano wouldn't turn on him, either.
+
+Trump reverses course, says 'too soon' for Georgia Gov…","david scatino thought tony soprano turn him, either. trump reverses course, says 'too soon' georgia gov…"
+pos,1.0,RT @GreyBeard_Biker: So this is why your ever-lovable Grey Beard Biker LOVES @realDonaldTrump: He was just talking about his concerns about…,ever-lovable grey beard biker loves talking concerns about…
+pos,1.0,"RT @kaitlancollins: Wow. Trump says he told Georgia. Gov. Brian Kemp he disagrees with his moves. ""But at the same time, he must do what he…","wow. trump says told georgia. gov. brian kemp disagrees moves. ""but time, must he…"
+neutral,0.75,RT @BooMama52: I heard Kemp did not consult with medical professionals. He has the CDC and Emory University in his backyard. Makes no sense…,heard kemp consult medical professionals. cdc emory university backyard. makes sense…
+pos,1.0,RT @LindseyGrahamSC: I totally understand Governor Kemp’s desire to allow businesses to reopen as small business owners are under great str…,totally understand governor kemp’s desire allow businesses reopen small business owners great str…
+neg,1.0,RT @businessinsider: Trump: 'I disagree strongly' with Georgia Gov. Brian Kemp's decision to reopen businesses in his state https://t.co/Dq…,trump: 'i disagree strongly' georgia gov. brian kemp's decision reopen businesses state
+pos,1.0,RT @RachelBitecofer: Would LOVE to be in Kemp’s office right now,would love kemp’s office right
+neg,1.0,RT @chrislhayes: They're absolutely cutting Kemp off at the knees. You hate to see it.,they're absolutely cutting kemp knees. hate see it.
